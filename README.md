@@ -6,3 +6,4 @@ Members: Sameeksha Sharma, Sydney Renninger, Namita Pradeep, Florenica Santander
 This repository is practice for using Git, GitHub, and VS Code. 
 
 
+Remote update completed. 
